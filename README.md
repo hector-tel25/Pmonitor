@@ -20,6 +20,11 @@ Una herramienta gráfica escrita en Python (con PyQt5) para monitorear la dispon
 - **Iniciar monitoreo con el botón correspondiente
 - **Visualizar resultados en tabla y gráficos
 - **Exportar datos cuando sea necesario
+
+##Captura de Pantalla
+<img width="1202" height="738" alt="Captura de pantalla_20250819_194220" src="https://github.com/user-attachments/assets/0ea3131b-2412-463d-b800-c074830a36c5" />
+
+
   
 ## 📦 Requisitos
 
